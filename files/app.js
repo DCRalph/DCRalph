@@ -79,7 +79,7 @@ const MakeTerms = (terms) => {
 
   let link = document.createElement('link')
   link.rel = 'stylesheet'
-  link.href = 'https://raw.githubusercontent.com/DCRalph/DCRalph/main/files/tailwind.css'
+  link.href = 'https://cdn.jsdelivr.net/gh/dcralph/dcralph/files/tailwind.css'
 
   document.head.appendChild(link)
   document.body.appendChild(model)
