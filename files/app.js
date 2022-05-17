@@ -79,7 +79,7 @@ const MakeTerms = (terms) => {
 
   let link = document.createElement('link')
   link.rel = 'stylesheet'
-  link.href = 'https://drive.google.com/uc?id=107kMmxsG5vV52rq7CPNKEym3ng1CQ8Jo&export=download&confirm=t'
+  link.href = 'https://raw.githubusercontent.com/DCRalph/DCRalph/main/files/tailwind.css'
 
   document.head.appendChild(link)
   document.body.appendChild(model)
@@ -95,12 +95,3 @@ const MakeTerms = (terms) => {
     document.body.removeChild(model)
   })
 }
-
-// 1gj6BJ-OAJcNeSTBwFc6mRi72thv8zV2g
-
-// 107kMmxsG5vV52rq7CPNKEym3ng1CQ8Jo
-
-//https://drive.google.com/uc?export=view&id=1gj6BJ-OAJcNeSTBwFc6mRi72thv8zV2g
-
-//https://drive.google.com/uc?id=1gj6BJ-OAJcNeSTBwFc6mRi72thv8zV2g&export=download&confirm=t   js
-//https://drive.google.com/uc?id=107kMmxsG5vV52rq7CPNKEym3ng1CQ8Jo&export=download&confirm=t   css
